@@ -1,4 +1,4 @@
 # Coding-Test
-## backJoon
+## baekJoon
 ## programmers
 ## swea
